@@ -1,22 +1,21 @@
 # C++ Mathematical Programs
 
-This repository contains beginner-level C++ programs created while learning programming fundamentals and mathematical concepts.
+This repository contains beginner-level C++ programs created while learning programming fundamentals and exploring mathematical concepts.
 
 ## Programs Included
 
-1. **Madhava Formula** – Approximates the value of Pi using a mathematical series.
-2. **Leibniz Formula** – Calculates an approximation of Pi using an infinite series.
-3. **Wallis Product** – Approximates Pi using the Wallis product formula.
-4. **Taylor Series** – Approximates the value of e^x using a Taylor series.
-5. **Collatz Conjecture** – Calculates the number of steps required to reach 1 for a given positive integer.
+- **collatz conjecture.cpp** – Calculates the number of steps required to reach 1 for a given positive integer.
+- **leibniz-madhavan formula.cpp** – Approximates the value of Pi using an alternating mathematical series.
+- **taylor series.cpp** – Approximates the value of e^x using a finite Taylor series.
+- **wallis product.cpp** – Approximates Pi using the Wallis product formula.
 
-## Concepts Learned
+## Concepts Practiced
 
 - Variables and data types
 - Loops and conditional statements
 - Mathematical formulas and series
 - Numerical approximation
-- Input and output in C++
+- Standard input and output in C++
 
 ## Language and Tools
 
@@ -25,7 +24,7 @@ This repository contains beginner-level C++ programs created while learning prog
 
 ## Purpose
 
-The purpose of this repository is to practice C++ programming, strengthen problem-solving skills, and explore mathematical concepts through simple programs.
+The purpose of this repository is to practice C++ programming, improve problem-solving skills, and explore mathematical concepts through coding.
 
 ## Author
 
